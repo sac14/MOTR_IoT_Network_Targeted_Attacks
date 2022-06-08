@@ -18,7 +18,7 @@
 <li>Part 3.</li>
 </ul>
 <p dir="auto">This work shows an optimization scheme for enhanced robustness of network topology primarily linked with scale-free network characteristics for IoT.</p>
-<p dir="auto"><strong>TLDR</strong>: We explore neural networks for their robustness against adversarial attacks through the lens of graph theory.</p>
+<p dir="auto">We explore geometric aspects of an underlying network to optimize its topology in the face of perturbations.</p>
 <div dir="auto" align="center">
         <a target="_blank" rel="noopener noreferrer" href="/Waasem/RobDanns/blob/main/deep_learning/docs/figs/overview.png"><img src="/Waasem/RobDanns/raw/main/deep_learning/docs/figs/overview.png" style="max-width: 100%;" width="1100px"></a>
         <p dir="auto" align="center"><b>Overview.</b> Image text and text.</p>
