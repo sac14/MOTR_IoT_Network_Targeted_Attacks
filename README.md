@@ -6,7 +6,7 @@
 <li><a href="#overview">Overview</a></li>
 <li><a href="#repo-contents">Repo Contents</a></li>
 <li><a href="#code-setup">Code Setup</a></li>
-<li><a href="sac14/Modeling_and_Optimizing_Topology_Robustness_in_IoT/blob/main/LICENSE">License</a></li>
+<li><a href="https://github.com/sac14/Modeling_and_Optimizing_Topology_Robustness_in_IoT/blob/main/LICENSE">License</a></li>
 <li><a href="https://github.com/Waasem/RobDanns/pulls">Issues</a></li>
 <li><a href="#citation">Citation</a></li>
 </ul>
